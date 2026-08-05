@@ -63,3 +63,7 @@ Sign up normally, then in MongoDB set that user's `role` field to `"admin"` manu
 
 ## License
 MIT
+
+## ADMIN LOGIN CREDENTIALS:
+ Email: esfsffcae@gmail.com
+ Password: mypassword123
